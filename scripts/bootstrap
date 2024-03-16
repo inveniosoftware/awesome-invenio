@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+
+set -e
+
+script_path=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
+
+echo $script_path
+
+pip install mkdocs-material
+ln -sf $script_path/../README.md $script_path/../docs/index.md
