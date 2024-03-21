@@ -8,14 +8,15 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## Overlays
 
-* [CaltechDATA](https://github.com/caltechlibrary/caltechdata) - The CaltechDATA InvenioRDM source code.
+* [CaltechDATA](https://github.com/caltechlibrary/caltechdata) - The [CaltechDATA](https://data.caltech.edu) InvenioRDM source code.
+* * [CaltechDATA](https://github.com/caltechlibrary/caltechauthors) - The [CaltechAUTHORS](https://authors.library.caltech.edu) InvenioRDM source code.
 * [CDS](https://github.com/CERNDocumentServer/cds-rdm) -  New CDS site based on InvenioRDM.
 * [UltraViolet](https://github.com/nyudlts/ultraviolet) - NYU Libraries' DLTS deployment of the InvenioRDM framework.
 
 ## Deployments
 
 * [TU Graz Deployment](https://tu-graz-library.github.io/docs-repository) - Docker compose based deployment.
-* [Caltech Authors](https://github.com/caltechlibrary/caltechauthors?tab=readme-ov-file#caltechauthors) VM based deployment.
+* [Caltech Authors](https://github.com/caltechlibrary/caltechauthors?tab=readme-ov-file#caltechauthors) Single VM based deployment of v12b.
 # Resources
 
 ## Official Channels
