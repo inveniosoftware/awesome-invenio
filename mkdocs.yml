@@ -1,0 +1,22 @@
+site_name: Awesome Invenio
+site_url: https://awesome-invenio.com
+site_description: An opinionated list of awesome Invenio extensions, overlays and resources.
+site_author: Esteban J. G. Gabancho
+repo_name: egabancho/awesome-invenio
+repo_url: https://github.com/egabancho/awesome-invenio
+theme:
+  name: material
+  palette:
+    primary: blue
+    accent: pink
+markdown_extensions:
+  - toc:
+      permalink: true
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/egabanho
+    - icon: fontawesome/brands/mastodon 
+      link: https://fosstodon.org/@egabancho
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/egabancho
