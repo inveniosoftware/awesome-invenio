@@ -10,6 +10,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 * [CaltechDATA](https://github.com/caltechlibrary/caltechdata) - The CaltechDATA InvenioRDM source code.
 * [CDS](https://github.com/CERNDocumentServer/cds-rdm) -  New CDS site based on InvenioRDM.
+* [UltraViolet](https://github.com/nyudlts/ultraviolet) - NYU Libraries' DLTS deployment of the InvenioRDM framework.
 
 ## Deployments
 
