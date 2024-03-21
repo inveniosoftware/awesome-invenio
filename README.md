@@ -19,6 +19,15 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [TU Graz Deployment](https://tu-graz-library.github.io/docs-repository) - Docker compose based deployment.
 * [Caltech Authors](https://github.com/caltechlibrary/caltechauthors?tab=readme-ov-file#caltechauthors) Single VM based deployment of v12b.
 
+## Extensions
+
+### Subjects
+* [invenio-subjects-mesh](https://github.com/galterlibrary/invenio-subjects-mesh) - MeSH topical subject terms with qualifiers for InvenioRDM
+* [invenio-subjects-mesh-lite](https://github.com/galterlibrary/invenio-subjects-mesh-lite) - MeSH topical subject terms without qualifiers for InvenioRDM
+* [invenio-subjects-lcsh](https://github.com/galterlibrary/invenio-subjects-lcsh) - LCSH subject terms for InvenioRDM
+* [galter-subjects-utils](https://github.com/galterlibrary/galter-subjects-utils) - Subjects tooling for InvenioRDM.
+
+
 # Resources
 
 ## Official Channels
