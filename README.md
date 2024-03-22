@@ -26,6 +26,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [invenio-subjects-mesh-lite](https://github.com/galterlibrary/invenio-subjects-mesh-lite) - MeSH topical subject terms without qualifiers for InvenioRDM
 * [invenio-subjects-lcsh](https://github.com/galterlibrary/invenio-subjects-lcsh) - LCSH subject terms for InvenioRDM
 * [galter-subjects-utils](https://github.com/galterlibrary/galter-subjects-utils) - Subjects tooling for InvenioRDM.
+* [invenio-subjects-nasa](https://github.com/Samk13/invenio-subjects-nasa) - [Nasa thesaurus](https://sti.nasa.gov/nasa-thesaurus/) subject terms for InvenioRDM.
+* [invenio-subjects-cessda](https://github.com/Samk13/invenio-subjects-cessda) - [CESSDA](https://www.cessda.eu/) subject terms for Invenio RDM.
 
 
 # Resources
