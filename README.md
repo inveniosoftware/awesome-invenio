@@ -19,6 +19,10 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [TU Graz Deployment](https://tu-graz-library.github.io/docs-repository) - Docker compose based deployment.
 * [Caltech Authors](https://github.com/caltechlibrary/caltechauthors?tab=readme-ov-file#caltechauthors) Single VM based deployment of v12b.
 
+## Misc
+
+* [InvenioRDM Devbox blueprint](https://github.com/ulbmuenster/invenio-devbox) for a new take on developing
+
 ## Extensions
 
 ### Subjects
