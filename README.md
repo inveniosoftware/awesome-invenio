@@ -19,9 +19,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [TU Graz Deployment](https://tu-graz-library.github.io/docs-repository) - Docker compose based deployment.
 * [Caltech Authors](https://github.com/caltechlibrary/caltechauthors?tab=readme-ov-file#caltechauthors) Single VM based deployment of v12b.
 
-## Misc
-
-* [InvenioRDM Devbox blueprint](https://github.com/ulbmuenster/invenio-devbox) for a new take on developing
 
 ## Extensions
 
@@ -33,6 +30,9 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [invenio-subjects-nasa](https://github.com/Samk13/invenio-subjects-nasa) - [Nasa thesaurus](https://sti.nasa.gov/nasa-thesaurus/) subject terms for InvenioRDM.
 * [invenio-subjects-cessda](https://github.com/Samk13/invenio-subjects-cessda) - [CESSDA](https://www.cessda.eu/) subject terms for Invenio RDM.
 
+## For developers
+
+* [InvenioRDM Devbox blueprint](https://github.com/ulbmuenster/invenio-devbox) for a new take on developing
 
 # Resources
 
