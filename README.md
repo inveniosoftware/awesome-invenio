@@ -33,6 +33,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 ## For developers
 
 * [InvenioRDM Devbox blueprint](https://github.com/ulbmuenster/invenio-devbox) for a new take on developing
+* [Translation tools](https://github.com/oarepo/rdm-lang-tools/) - check for inconsistencies, merge transifex into a single .po file, upload back, check with the help of chatgpt, apply newest translations to an installed RDM.
 
 # Resources
 
