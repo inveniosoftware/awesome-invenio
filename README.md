@@ -35,9 +35,11 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ### Configuration
 * [invenio-config-tuw](https://gitlab.tuwien.ac.at/fairdata/invenio-config-tuw) - Customized workflows and baseline configuration for [TU Wien Research Data](https://researchdata.tuwien.ac.at/).
+* [invenio-config-tugraz](https://github.com/tu-graz-library/invenio-config-tugraz) - Override configuration from different Invenio modules to meet [TU Graz](https://www.tugraz.at/home) requirements.
 
 ### Theming
 * [invenio-theme-tuw](https://gitlab.tuwien.ac.at/fairdata/invenio-theme-tuw) - Corporate design for [TU Wien](https://www.tuwien.at/), used in [TU Wien Research Data](https://researchdata.tuwien.ac.at/).
+* [invenio-theme-tugraz](https://github.com/tu-graz-library/invenio-theme-tugraz) - [TU Graz](https://github.com/tu-graz-library/invenio-theme-tugraz) standard theme for InvenioRDM.
 
 ### General
 * [invenio-utilities-tuw](https://gitlab.tuwien.ac.at/fairdata/invenio-utilities-tuw) - Extra CLI utilities for InvenioRDM, of varying quality and usefulness.
