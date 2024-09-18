@@ -30,6 +30,9 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [invenio-subjects-nasa](https://github.com/Samk13/invenio-subjects-nasa) - [Nasa thesaurus](https://sti.nasa.gov/nasa-thesaurus/) subject terms for InvenioRDM.
 * [invenio-subjects-cessda](https://github.com/Samk13/invenio-subjects-cessda) - [CESSDA](https://www.cessda.eu/) subject terms for Invenio RDM.
 
+### Workflows
+* [invenio-curations](https://github.com/tu-graz-library/invenio-curations) - Enables a curation workflow before publication of records.
+
 ## For developers
 
 * [InvenioRDM Devbox blueprint](https://github.com/ulbmuenster/invenio-devbox) for a new take on developing
