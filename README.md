@@ -29,6 +29,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [galter-subjects-utils](https://github.com/galterlibrary/galter-subjects-utils) - Subjects tooling for InvenioRDM.
 * [invenio-subjects-nasa](https://github.com/Samk13/invenio-subjects-nasa) - [Nasa thesaurus](https://sti.nasa.gov/nasa-thesaurus/) subject terms for InvenioRDM.
 * [invenio-subjects-cessda](https://github.com/Samk13/invenio-subjects-cessda) - [CESSDA](https://www.cessda.eu/) subject terms for Invenio RDM.
+* [invenio-vocabularies-extra](https://github.com/ulbmuenster/invenio-vocabularies-extra) - Add some extras to the vocabularies module like jobs, readers and transformers for DDC, bilingual MeSH and GND subjects.
 
 ### Workflows
 * [invenio-curations](https://github.com/tu-graz-library/invenio-curations) - Enables a curation workflow before publication of records.
