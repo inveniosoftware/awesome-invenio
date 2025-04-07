@@ -9,7 +9,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 ## Overlays
 
 * [CaltechDATA](https://github.com/caltechlibrary/caltechdata) - The [CaltechDATA](https://data.caltech.edu) InvenioRDM source code.
-* [CaltechDATA](https://github.com/caltechlibrary/caltechauthors) - The [CaltechAUTHORS](https://authors.library.caltech.edu) InvenioRDM source code.
+* [CaltechAUTHORS](https://github.com/caltechlibrary/caltechauthors) - The [CaltechAUTHORS](https://authors.library.caltech.edu) InvenioRDM source code.
 * [CDS](https://github.com/CERNDocumentServer/cds-rdm) - New CERN Institutional Repository CDS, based on InvenioRDM.
 * [UltraViolet](https://github.com/nyudlts/ultraviolet) - NYU Libraries' DLTS deployment of the InvenioRDM framework.
 * [Zenodo](https://github.com/zenodo/zenodo-rdm) - Zenodo.org source code, powered by InvenioRDM.
@@ -49,6 +49,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 ## For developers
 
 * [InvenioRDM Devbox blueprint](https://github.com/ulbmuenster/invenio-devbox) for a new take on developing
+* [InvenioRDM Starter](https://starter.front-matter.io/) - A single docker image installation of InvenioRDM
 * [Translation tools](https://github.com/oarepo/rdm-lang-tools/) - check for inconsistencies, merge transifex into a single .po file, upload back, check with the help of chatgpt, apply newest translations to an installed RDM.
 
 # Resources
