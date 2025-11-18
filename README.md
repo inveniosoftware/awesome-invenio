@@ -45,9 +45,11 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [invenio-theme-tuw](https://gitlab.tuwien.ac.at/fairdata/invenio-theme-tuw) - Corporate design for [TU Wien](https://www.tuwien.at/), used in [TU Wien Research Data](https://researchdata.tuwien.ac.at/).
 * [invenio-theme-tugraz](https://github.com/tu-graz-library/invenio-theme-tugraz) - [TU Graz](https://github.com/tu-graz-library/invenio-theme-tugraz) standard theme for InvenioRDM.
 
+### Analytics/Statistics
+* [invenio-analytics-importer](https://github.com/galter-dmt/invenio-analytics-importer) - CLI to retrieve and ingest (Matomo) analytics into your InvenioRDM instance
+
 ### General
 * [invenio-utilities-tuw](https://gitlab.tuwien.ac.at/fairdata/invenio-utilities-tuw) - Extra CLI utilities for InvenioRDM, of varying quality and usefulness.
-
 
 ## For developers
 
