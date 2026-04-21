@@ -17,7 +17,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 ## Deployments
 
 * [TU Graz Deployment](https://tu-graz-library.github.io/docs-repository) - Docker compose based deployment.
-* [Caltech Authors](https://github.com/caltechlibrary/caltechauthors?tab=readme-ov-file#caltechauthors) Single VM based deployment of v12b.
+* [Caltech Authors](https://github.com/caltechlibrary/caltechauthors?tab=readme-ov-file#caltechauthors) Single VM based deployment of v13.
 
 
 ## Extensions
